@@ -33,7 +33,7 @@ this.numerodeempleado=numerodeempleado;
  @Override
  public void funcionesbasicas(){
  
- System.out.println("el gerente trabaja.... o eso dice");
+ System.out.println("el gerente "+ nombre + "con numero de control "  + numerodeempleado + " trabaja.... o eso dice");
  
  
  }
